@@ -19,7 +19,6 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-guilherme-costa-filippe-dias/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizFilippeDias)
 
 ## 🛠 Habilidades
 
