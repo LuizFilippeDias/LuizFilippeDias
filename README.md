@@ -2,7 +2,7 @@
 
 👨‍💻 Analista de QA Júnior | Ciência da Computação
 
-Sou formado em Ciência da Computação e atuo como Analista de QA Júnior. Tenho experiência com testes automatizados, utilizando principalmente o Cypress para garantir a qualidade de aplicações web. Além disso, possuo conhecimentos em Selenium e Robot, utilizo JavaScript para criar scripts de teste eficientes e de fácil manutenção.
+Sou formado em Ciência da Computação e atuo como Analista de QA Júnior. Tenho experiência com testes automatizados, utilizando principalmente o Cypress para garantir a qualidade de aplicações web. Além disso, possuo conhecimentos em Selenium e Robot, utilizo JavaScript e Python para criar scripts de teste eficientes e de fácil manutenção.
 
 Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar minha atuação em Quality Assurance e contribuir com o desenvolvimento de software de alta qualidade. Aqui no meu GitHub, compartilho projetos e contribuições que refletem minha jornada na área e meu empenho em aprimorar minhas habilidades técnicas.
 
@@ -31,10 +31,15 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFFFFF&color=3776AB)
+
 
 ### Bibliotecas e Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SeleniumLibrary](https://img.shields.io/badge/SeleniumLibrary-FFFFFF?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=FFFFFF&color=43B02A)
+![FakerLibrary](https://img.shields.io/badge/FakerLibrary-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=7952B3)
+
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
