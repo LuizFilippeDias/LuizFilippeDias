@@ -52,6 +52,7 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-%23646d7f?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker Image Version](https://img.shields.io/docker/v/USERNAME/REPOSITORY?sort=semver&label=Docker&style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
