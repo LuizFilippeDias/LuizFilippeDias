@@ -1,8 +1,8 @@
 ## E ae, tudo bem? Me chamo Luiz Dias! 
 
-👨‍💻 Analista de QA Júnior | Ciência da Computação
+👨‍💻 Analista de QA | Ciência da Computação
 
-Sou formado em Ciência da Computação e atuo como Analista de QA Júnior. Tenho experiência com testes automatizados, utilizando principalmente o Cypress para garantir a qualidade de aplicações web. Além disso, possuo conhecimentos em Selenium e Robot, utilizo JavaScript e Python para criar scripts de teste eficientes e de fácil manutenção.
+Sou formado em Ciência da Computação e atuo como Analista de QA. Tenho experiência com testes automatizados, utilizando principalmente o Cypress para garantir a qualidade de aplicações web. Além disso, possuo conhecimentos em Selenium e Robot, utilizo JavaScript e Python para criar scripts de teste eficientes e de fácil manutenção.
 
 Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar minha atuação em Quality Assurance e contribuir com o desenvolvimento de software de alta qualidade. Aqui no meu GitHub, compartilho projetos e contribuições que refletem minha jornada na área e meu empenho em aprimorar minhas habilidades técnicas.
 
