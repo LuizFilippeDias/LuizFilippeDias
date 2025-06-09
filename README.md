@@ -51,6 +51,7 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-%23646d7f?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker Image Version](https://img.shields.io/docker/v/library/redis?sort=semver&label=Docker&style=for-the-badge&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
