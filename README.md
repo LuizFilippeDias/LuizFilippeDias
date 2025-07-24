@@ -56,8 +56,6 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![Docker Image Version](https://img.shields.io/docker/v/library/redis?sort=semver&label=Docker&style=for-the-badge&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Made%20with-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
