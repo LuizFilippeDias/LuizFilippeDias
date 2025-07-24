@@ -9,7 +9,7 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![LuizFilippeDias's GitHub](https://github-readme-stats.vercel.app/api?username=LuizFilippeDias\&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFilippeDias\&layout=compact)  
 - 🔭 Trabalho como Analista de QA
-- 🌱 Estudando Cypress e Robot
+- 🌱 Estudando C#
 - 😄 Pronouns: ele/dele
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
