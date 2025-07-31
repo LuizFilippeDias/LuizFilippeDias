@@ -53,7 +53,7 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker Image Version](https://img.shields.io/docker/v/library/redis?sort=semver&label=Docker&style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
