@@ -50,7 +50,7 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 
 ### Ferramentas
 <p align="left">
-  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="Apache JMeter" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" width="40px"/>
   <img src="https://cdn.simpleicons.org/cypress/69D3A7" alt="Cypress" width="40" />
   <img src="https://cdn.simpleicons.org/robotframework/000000" alt="RobotFramework" width="40" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" width="40" />
