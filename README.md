@@ -48,6 +48,7 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ### Ferramentas
+![JMeter](https://img.shields.io/badge/JMeter-red?logo=apache)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-%23646d7f?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
