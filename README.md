@@ -22,42 +22,43 @@ Estou sempre em busca de aprender novas ferramentas e metodologias para melhorar
 ## 🛠 Habilidades
 
 ### Linguagens de Marcação
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" />
+<img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="40" />
+<img src="https://cdn.simpleicons.org/sass/CD6799" alt="Sass" width="40" />
+</p>
 
 ### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFFFFF&color=3776AB)
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40"/>
+</p>
 
 ### Bibliotecas e Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SeleniumLibrary](https://img.shields.io/badge/SeleniumLibrary-FFFFFF?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=FFFFFF&color=43B02A)
-![FakerLibrary](https://img.shields.io/badge/FakerLibrary-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=7952B3)
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="40"/>
+</p>
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />
+</p>
 
 ### Ferramentas
-![JMeter](https://img.shields.io/badge/JMeter-red?logo=apache)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-%23646d7f?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="Apache JMeter" width="40" />
+  <img src="https://cdn.simpleicons.org/cypress/69D3A7" alt="Cypress" width="40" />
+  <img src="https://cdn.simpleicons.org/robotframework/000000" alt="RobotFramework" width="40" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" width="40" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins" width="40" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" />
+  <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="Node.js" width="40" />
+</p>
 
